@@ -1,5 +1,4 @@
 
-//This is fibonaci test program
 public class fibonaci {
 
 	static int fib(int n) {
