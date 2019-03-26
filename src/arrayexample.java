@@ -1,4 +1,3 @@
-//This is test array 
 public class arrayexample {
 
 	public static void main(String[] args) {
