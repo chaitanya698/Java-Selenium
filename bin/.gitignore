@@ -4,6 +4,7 @@
 /FilesStreamTest.class
 /ImageData.class
 /IsPrime.class
+/Main.class
 /MoreThreads.class
 /MultiThread.class
 /MultipleThread.class
@@ -37,6 +38,7 @@
 /overloadExample.class
 /pattern.class
 /reverse.class
+/stackExample.class
 /testChild.class
 /testParent.class
 /threadExample1.class
